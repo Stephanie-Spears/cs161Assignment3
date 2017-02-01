@@ -1,0 +1,5 @@
+﻿  ADRIAN assignment 3.cpp
+c:\users\stephanie\desktop\cs 161\adrian assignment 3.cpp(36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\stephanie\desktop\cs 161\adrian assignment 3.cpp(78): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\stephanie\desktop\cs 161\adrian assignment 3.cpp(128): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  new shit.vcxproj -> C:\Users\Stephanie\Documents\Visual Studio 2015\Projects\ADRIAN assignment 3\x64\Debug\ADRIAN assignment 3.exe
